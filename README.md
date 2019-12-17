@@ -15,8 +15,8 @@ Goal | Item | Link to Item
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/simalaozeiyu/Getting-and-Cleaning-Data-projekt/blob/master/run_analysis.R"run_analysis.R")
 Tidy Data Set |  Clean Data Set |  [Data Set Link]( https://github.com/simalaozeiyu/Getting-and-Cleaning-Data-projekt/blob/master/TidyData.txt"tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/simalaozeiyu/Getting-and-Cleaning-Data-projekt "Click to go to Repo")
-Cookbook | CodeBook.md |  [Repo Link]( "CodeBook.md")
-README | ReadingItNow |  [Repo Link]("README.md")
+Cookbook | CodeBook.md |  [Repo Link](https://github.com/simalaozeiyu/Getting-and-Cleaning-Data-projekt/blob/master/CodeBook.md "CodeBook.md")
+README | ReadingItNow |  [Repo Link](https://github.com/simalaozeiyu/Getting-and-Cleaning-Data-projekt/blob/master/README.md"README.md")
 
 
 ## License
